@@ -1,1 +1,1 @@
-# image-classification
+# Convolutional Neural Network - Image Classification
